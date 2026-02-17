@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Copyright 2026 Igalia
+# Copyright (c) 2026 Igalia
 # SPDX-License-Identifier: MIT
 import re
 import sys
